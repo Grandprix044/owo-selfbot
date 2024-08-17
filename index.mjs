@@ -1,4 +1,4 @@
-process.title = "OwO Captcha Doğrulamalı Farm Botu © 2023 Seuzfaar"
+process.title = "OwO Captcha Doğrulamalı Farm Botu"
 
 //import libraries
 
