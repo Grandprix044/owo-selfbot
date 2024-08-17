@@ -52,9 +52,6 @@ process.on("SIGINT", function () {
     process.exit(1)
 });
 
-/**
- *CopyRight © 2023 Seuzfaar
-**/
 
 (async () => {
     const { client, conf } = await collectData(Data, DataPath);
