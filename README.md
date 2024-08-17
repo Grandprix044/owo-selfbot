@@ -50,14 +50,6 @@ Son zamanlarda, belirli araçların kullanımıyla ilişkili olarak hacklenen he
 
 <p align="left"><a href="https://discord.gg/SWhBEbMzW3"><img width="85%" alt="Dikkat Et!" src="./assets/tehlikeli-hesap.png" /></a></p>
 
-## İletişim Bilgileri
-
-__Youtube:__ [Abone Ol Oğlum!](https://www.youtube.com/channel/UCCslUOUpH2-EOEVhVTjVMOQ)
-
-__E-posta:__ baygibs@gmail.com
-
-__Discord (Destek):__ [Şimdi katıl](https://discord.gg/SWhBEbMzW3)
-
 ## Lisans
 
 ✨ GNU General Public License v3.0  lisansı altında lisanslanmıştır.
